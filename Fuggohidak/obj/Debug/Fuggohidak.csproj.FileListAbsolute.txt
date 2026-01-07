@@ -1,0 +1,12 @@
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\bin\Debug\Fuggohidak.exe.config
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\bin\Debug\Fuggohidak.exe
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\bin\Debug\Fuggohidak.pdb
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.csproj.AssemblyReference.cache
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.Form1.resources
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.Form2.resources
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.Properties.Resources.resources
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.csproj.GenerateResource.cache
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.csproj.CoreCompileInputs.cache
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.exe
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.pdb
+C:\Users\reuco\source\repos\Fuggohidak\Fuggohidak\obj\Debug\Fuggohidak.exe.config
